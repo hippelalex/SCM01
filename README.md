@@ -1,3 +1,4 @@
-## TEST HEADER
+## Home work 1
 
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
+
+Create branches, commit, merge and push
